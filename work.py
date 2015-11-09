@@ -1,0 +1,11 @@
+__author__ = 'mityagov_vi'
+a = list('123345')
+print(a)
+a.append(list('aw')
+         )
+print(a)
+print (a.count('3'))
+a.reverse()
+print(a)
+print '{} {}'.format(1, 'qwe')
+print '%d, %s' % (10, 'qwe')
