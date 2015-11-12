@@ -47,7 +47,8 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.BasicAuthentication',
         'rest_framework.authentication.SessionAuthentication',
     ),
-    'PAGE_SIZE': 2
+
+    'PAGE_SIZE': 5
 }
 
 MIDDLEWARE_CLASSES = [
